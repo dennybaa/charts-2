@@ -667,7 +667,7 @@ config:
     RestrictCreationToDomains: ''
     RestrictDirectMessage: any
     SiteName: Mattermost
-    TeammateNameDisplay: ''
+    TeammateNameDisplay: username
     UserStatusAwayTimeout: 300
   ThemeSettings:
     AllowCustomThemes: true
